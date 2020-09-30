@@ -1,0 +1,33 @@
+h1, p, fieldset {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+
+.grid-container {
+  display: grid;
+  grid-row-gap: 5px;
+  grid-column-gap: 5px;
+}
+
+
+
+.item1 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  padding: 5px;
+  text-align: center;
+}
+
+.item2 {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  padding: 5px;
+  text-align: center;
+}
+
+.item3 {
+  grid-column-start: 3;
+  grid-column-end: 4;
+  padding: 5px;
+  text-align: center;
+}

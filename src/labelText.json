@@ -1,0 +1,8 @@
+{"label":"Super Duper",
+  "borders":{
+    "left":"Left",
+    "right": "Right",
+    "bottom": "Bottom",
+    "top": "Top"
+  }
+}
